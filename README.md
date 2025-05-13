@@ -9,8 +9,7 @@ This repository contains the source files for the paper *"A Novel Approach to Qu
 ## Requirements
 To run the scripts, ensure you have the following dependencies installed:
 - Python 3.8+
-- Libraries: `numpy`, `pandas`, `torch`, `scikit-learn`, `matplotlib`, 'seaborn', 'collections', 
-'torch', 'json', 'scipy', 'itertools', 'random'
+- Libraries: `numpy`, `pandas`, `torch`, `scikit-learn`, `matplotlib`, `seaborn`, `collections`, `torch`, `json`, `scipy`, `itertools`, `random`
 
 ## Data
 The dataset from Linköping University, containing hockey event data, is not included due to privacy restrictions. 
